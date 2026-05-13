@@ -1,0 +1,50 @@
+        [
+            {
+                "id": 1378,
+                "imagen": "/images/la-zona-muerta.jfif",
+                "nombre": "La Zona Muerta",
+                "autor": "Stephen King",
+                "precio": "25000",
+                "stock": 8
+            },
+            {
+                "id": 1379,
+                "imagen": "/images/el-marciano.jpg",
+                "nombre": "El Marciano",
+                "autor": "Andy Weir",
+                "precio": "37000",
+                "stock": 6
+            },
+            {
+                "id": 1380,
+                "imagen": "/images/el-hobbit.jpg",
+                "nombre": "El Hobbit",
+                "autor": "J.R.R. Tolkien",
+                "precio": "35000",
+                "stock": 4
+            },
+            {
+                "id": 1381,
+                "imagen": "/images/dune.webp",
+                "nombre": "Dune",
+                "autor": "Frank Herbert",
+                "precio": "42000",
+                "stock": 5
+            },
+            {
+                "id": 1382,
+                "imagen": "/images/1984.webp",
+                "nombre": "1984",
+                "autor": "George Orwell",
+                "precio": "28000",
+                "stock": 7
+            },
+            {
+                "id": 1383,
+                "imagen": "/images/fahrenheit-451.webp",
+                "nombre": "Fahrenheit 451",
+                "autor": "Ray Bradbury",
+                "precio": "31000",
+                "stock": 3
+            }
+        ]
