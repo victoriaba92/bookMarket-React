@@ -65,7 +65,7 @@ function Header() {
 
                             <button
                                 className="btn btn-outline-light"
-                                type="submit"
+                                type=""
                             >
                                 Buscar
                             </button>
